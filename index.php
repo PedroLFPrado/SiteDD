@@ -1,6 +1,5 @@
-
-
 <!DOCTYPE html>	
+
 <html lang="en">
 <head>
   <title>Compra do Jogo</title>
